@@ -1,0 +1,182 @@
+1661409866885	geckodriver	INFO	Listening on 127.0.0.1:59961
+1661409869936	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\katty\\AppData\\Local\\Temp\\rust_mozprofile59Tmzz"
+1661409870888	Marionette	INFO	Marionette enabled
+1661409870897	Marionette	INFO	Listening on port 59969
+1661409871188	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\katty\\AppData\\Local\\Temp\\rust_mozprofile59Tmzz\\search.json.mozlz4", (void 0)))
+Shutting down due to socket process crash.
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1624: Error: permitUnload is already running for this tab.
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1661409916947	Marionette	INFO	Stopped listening on port 59969
+JavaScript error: , line 0: uncaught exception: undefined
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 18172, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1661411615230	geckodriver	INFO	Listening on 127.0.0.1:60289
+1661411618313	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\katty\\AppData\\Local\\Temp\\rust_mozprofilet3kkRF"
+1661411619209	Marionette	INFO	Marionette enabled
+1661411619222	Marionette	INFO	Listening on port 60297
+1661411619878	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\katty\\AppData\\Local\\Temp\\rust_mozprofilet3kkRF\\search.json.mozlz4", (void 0)))
+1661411888513	Marionette	INFO	Stopped listening on port 60297
+1411752581	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\katty\\AppData\\Local\\Temp\\rust_mozprofiledNn7LY"
+1661411753473	Marionette	INFO	Marionette enabled
+1661411753485	Marionette	INFO	Listening on port 60423
+1661411754245	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\katty\\AppData\\Local\\Temp\\rust_mozprofiledNn7LY\\search.json.mozlz4", (void 0)))
+Shutting down due to socket process crash.
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1624: Error: permitUnload is already running for this tab.
+[Parent 14116, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:554
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 2185: TypeError: subject.QueryInterface is not a function
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 14116, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:554
+1661411824062	Marionette	INFO	Stopped listening on port 60423
+JavaScript error: , line 0: uncaught exception: undefined
+[Parent 14116, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:723
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 14116, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1661411929689	geckodriver	INFO	Listening on 127.0.0.1:60648
+1661411932778	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\katty\\AppData\\Local\\Temp\\rust_mozprofile1JLJqe"
+1661411933440	Marionette	INFO	Marionette enabled
+1661411933449	Marionette	INFO	Listening on port 60656
+1661411934100	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\katty\\AppData\\Local\\Temp\\rust_mozprofile1JLJqe\\search.json.mozlz4", (void 0)))
+Shutting down due to socket process crash.
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1624: Error: permitUnload is already running for this tab.
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1661412003582	Marionette	INFO	Stopped listening on port 60656
+1661496601021	geckodriver	INFO	Listening on 127.0.0.1:64791
+1661496604105	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\katty\\AppData\\Local\\Temp\\rust_mozprofileZEDAYJ"
+1661496604929	Marionette	INFO	Marionette enabled
+1661496604942	Marionette	INFO	Listening on port 64799
+1661496605275	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\katty\\AppData\\Local\\Temp\\rust_mozprofileZEDAYJ\\search.json.mozlz4", (void 0)))
+[Parent 18088, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:723
+[Parent 18088, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:723
+1661497296436	Marionette	INFO	Stopped listening on port 64799
+JavaScript error: chrome://remote/content/marionette/cert.js, line 57: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1661499982172	geckodriver	INFO	Listening on 127.0.0.1:63021
+1661499985262	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\katty\\AppData\\Local\\Temp\\rust_mozprofilegAspIa"
+1661499986020	Marionette	INFO	Marionette enabled
+1661499986033	Marionette	INFO	Listening on port 63030
+1661499986631	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\katty\\AppData\\Local\\Temp\\rust_mozprofilegAspIa\\search.json.mozlz4", (void 0)))
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1661501015597	Marionette	INFO	Stopped listening on port 63030
+C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\katty\\AppData\\Local\\Temp\\rust_mozprofilev8S2DU"
+1661500054347	Marionette	INFO	Marionette enabled
+1661500054361	Marionette	INFO	Listening on port 63144
+1661500054640	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\katty\\AppData\\Local\\Temp\\rust_mozprofilev8S2DU\\search.json.mozlz4", (void 0)))
+1661500060818	Marionette	INFO	Stopped listening on port 63144
+JavaScript error: chrome://remote/content/marionette/cert.js, line 57: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1661500120035	geckodriver	INFO	Listening on 127.0.0.1:63238
+1661500123082	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\katty\\AppData\\Local\\Temp\\rust_mozprofilek4SuJX"
+1661500123888	Marionette	INFO	Marionette enabled
+1661500123900	Marionette	INFO	Listening on port 63246
+1661500124251	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\katty\\AppData\\Local\\Temp\\rust_mozprofilek4SuJX\\search.json.mozlz4", (void 0)))
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1661501017069	Marionette	INFO	Stopped listening on port 63246
+C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\katty\\AppData\\Local\\Temp\\rust_mozprofilelZTNTQ"
+1661500305301	Marionette	INFO	Marionette enabled
+1661500305314	Marionette	INFO	Listening on port 63418
+1661500305965	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\katty\\AppData\\Local\\Temp\\rust_mozprofilelZTNTQ\\search.json.mozlz4", (void 0)))
+1661501018692	Marionette	INFO	Stopped listening on port 63418
+1500461472	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\katty\\AppData\\Local\\Temp\\rust_mozprofileYsM6dn"
+1661500462291	Marionette	INFO	Marionette enabled
+1661500462302	Marionette	INFO	Listening on port 63647
+1661500462792	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\katty\\AppData\\Local\\Temp\\rust_mozprofileYsM6dn\\search.json.mozlz4", (void 0)))
+1661501020075	Marionette	INFO	Stopped listening on port 63647
+1500569560	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\katty\\AppData\\Local\\Temp\\rust_mozprofileaOBVam"
+1661500570439	Marionette	INFO	Marionette enabled
+1661500570453	Marionette	INFO	Listening on port 63825
+1661500570815	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\katty\\AppData\\Local\\Temp\\rust_mozprofileaOBVam\\search.json.mozlz4", (void 0)))
+1661501021317	Marionette	INFO	Stopped listening on port 63825
+1661501035768	geckodriver	INFO	Listening on 127.0.0.1:64080
+1661501038878	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\katty\\AppData\\Local\\Temp\\rust_mozprofileuFFNgT"
+1661501039789	Marionette	INFO	Marionette enabled
+1661501039799	Marionette	INFO	Listening on port 64088
+1661501040074	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\katty\\AppData\\Local\\Temp\\rust_mozprofileuFFNgT\\search.json.mozlz4", (void 0)))
+1661501549890	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1661513595259	Marionette	INFO	Stopped listening on port 64088
+\\AppData\\Local\\Temp\\rust_mozprofile8vSBZ8"
+1661501227304	Marionette	INFO	Marionette enabled
+1661501227315	Marionette	INFO	Listening on port 64284
+1661501227935	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\katty\\AppData\\Local\\Temp\\rust_mozprofile8vSBZ8\\search.json.mozlz4", (void 0)))
+1661501737412	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+Shutting down due to socket process crash.
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1624: Error: permitUnload is already running for this tab.
+1661513623095	geckodriver	INFO	Listening on 127.0.0.1:52525
+1661513626156	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\katty\\AppData\\Local\\Temp\\rust_mozprofileqO2edV"
+1661513626821	Marionette	INFO	Marionette enabled
+1661513626833	Marionette	INFO	Listening on port 52533
+1661513627472	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\katty\\AppData\\Local\\Temp\\rust_mozprofileqO2edV\\search.json.mozlz4", (void 0)))
+Shutting down due to socket process crash.
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1624: Error: permitUnload is already running for this tab.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 2185: TypeError: subject.QueryInterface is not a function
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1661513768665	Marionette	INFO	Stopped listening on port 52533
+JavaScript error: , line 0: uncaught exception: undefined
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1661515763973	geckodriver	INFO	Listening on 127.0.0.1:53203
+1661515767102	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\katty\\AppData\\Local\\Temp\\rust_mozprofileJ03VDE"
+1661515768038	Marionette	INFO	Marionette enabled
+1661515768047	Marionette	INFO	Listening on port 53211
+1661515768310	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\katty\\AppData\\Local\\Temp\\rust_mozprofileJ03VDE\\search.json.mozlz4", (void 0)))
+[Parent 252, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:723
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1661517232239	Marionette	INFO	Stopped listening on port 53211
+C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\katty\\AppData\\Local\\Temp\\rust_mozprofileXkWGBt"
+1661515894400	Marionette	INFO	Marionette enabled
+1661515894410	Marionette	INFO	Listening on port 53426
+1661515895016	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\katty\\AppData\\Local\\Temp\\rust_mozprofileXkWGBt\\search.json.mozlz4", (void 0)))
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1661517233632	Marionette	INFO	Stopped listening on port 53426
+C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\katty\\AppData\\Local\\Temp\\rust_mozprofileS4ttt7"
+1661516003647	Marionette	INFO	Marionette enabled
+1661516003656	Marionette	INFO	Listening on port 53535
+1661516003920	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\katty\\AppData\\Local\\Temp\\rust_mozprofileS4ttt7\\search.json.mozlz4", (void 0)))
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1661517235138	Marionette	INFO	Stopped listening on port 53535
+C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\katty\\AppData\\Local\\Temp\\rust_mozprofileEocQAo"
+1661516067356	Marionette	INFO	Marionette enabled
+1661516067367	Marionette	INFO	Listening on port 53647
+1661516067968	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\katty\\AppData\\Local\\Temp\\rust_mozprofileEocQAo\\search.json.mozlz4", (void 0)))
+[Parent 20136, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:723
+Shutting down due to socket process crash.
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1624: Error: permitUnload is already running for this tab.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 2185: TypeError: subject.QueryInterface is not a function
+[Parent 20136, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:554
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1661516252289	Marionette	INFO	Stopped listening on port 53647
+1661517812439	geckodriver	INFO	Listening on 127.0.0.1:54053
+1661517815504	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\katty\\AppData\\Local\\Temp\\rust_mozprofileKGY17F"
+1661517816253	Marionette	INFO	Marionette enabled
+1661517816263	Marionette	INFO	Listening on port 54061
+1661517816869	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\katty\\AppData\\Local\\Temp\\rust_mozprofileKGY17F\\search.json.mozlz4", (void 0)))
+Shutting down due to socket process crash.
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1624: Error: permitUnload is already running for this tab.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 2185: TypeError: subject.QueryInterface is not a function
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1661517955203	Marionette	INFO	Stopped listening on port 54061
